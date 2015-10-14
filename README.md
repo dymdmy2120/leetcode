@@ -1,3 +1,3 @@
 # leetcode
 
-这几天为了以后的的面试和笔试，刷leetcode上的题目
+用自己的思想实现leetcode上的题目
